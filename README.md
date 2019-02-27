@@ -1,2 +1,2 @@
 # teoria-computacao
-Teoria da Computação
+Materiais utilizados na disciplina de Teoria da Computação
